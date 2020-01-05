@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UI_0
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 167aed7e9ea8ab145bc37da2877c5c4f, type: 3}
+    totalSpriteSurfaceArea: 246784
+    bindAsDefault: 1
+    storedHash:
+      serializedVersion: 2
+      Hash: aa504bf7d48a10a940a0013418522da4
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 9128dd50f05796643a82abe095f5d55f, type: 3}
+  - {fileID: 21300000, guid: 55002e01eb1127640ae884e7b89725da, type: 3}
+  - {fileID: 21300000, guid: 1c0982c17d52f6c43a8ddeeef9950450, type: 3}
+  - {fileID: 21300000, guid: 81733cd1fb082aa4ab23c75a630f599d, type: 3}
+  - {fileID: 21300000, guid: 3ff55db2a3c0d5b45a4a41e4bb5d94a1, type: 3}
+  - {fileID: 21300000, guid: 96781c2326fea6d4d9b99cb4ed62d520, type: 3}
+  - {fileID: 21300000, guid: 8b15a964a54b8754bbbffee61dcfaed5, type: 3}
+  - {fileID: 21300000, guid: 2d49d875684b54e47964aec0883c9e58, type: 3}
+  - {fileID: 21300000, guid: 6d1e4ce642b20f2428301176195305aa, type: 3}
+  - {fileID: 21300000, guid: 3ecfc9e8bcc7cbd4e9c5de0453686828, type: 3}
+  - {fileID: 21300000, guid: b2ab184c1d7e4514a98a518e586da613, type: 3}
+  - {fileID: 21300000, guid: c607aecc9d69ceb4f804b13cacb12123, type: 3}
+  - {fileID: 21300000, guid: fed4f9bdfee99f547943d38f90ba4338, type: 3}
+  - {fileID: 21300000, guid: 1257657f5882e4b4280cc26674261a58, type: 3}
+  - {fileID: 21300000, guid: f4fa688fb5b6eb444a70aa335e5481f4, type: 3}
+  - {fileID: 21300000, guid: e7d8f5ffad726754fa4cd4da50d3a52e, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - R
+  - A
+  - 2_fin
+  - 0_fin
+  - M
+  - Green_Gamesture
+  - 3_fin
+  - panel
+  - OK_fin
+  - E
+  - s
+  - u
+  - G
+  - 1_fin
+  - T
+  - 3
+  m_Tag: UI_0
+  m_IsVariant: 0
